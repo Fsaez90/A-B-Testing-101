@@ -24,7 +24,7 @@ git clone https://github.com/Fsaez90/A-B-Testing-101.git
 
 ### CD into directory
 ```
-cd AB-TESTING
+cd a-b-testing-101
 ```
 
 ### Install dependencies
